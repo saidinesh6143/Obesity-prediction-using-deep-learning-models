@@ -1,4 +1,10 @@
 flask
-tensorflow
 numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+keras
 opencv-python
+Pillow
