@@ -1,4 +1,4 @@
-# 🧠 Obesity Prediction using Deep Learning (CNN + Computer Vision)
+# 🧠 Obesity Prediction using Deep Learning (CNN + OpenCV)
 
 ## 📌 Description
 This project presents a Deep Learning–based system for predicting abdominal obesity using 2D body images. Unlike traditional BMI-based methods, this system uses Computer Vision and CNN to analyze body shape and fat distribution.
