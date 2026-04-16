@@ -91,3 +91,13 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+
+
+## 📥 Download Model
+
+Due to GitHub file size limitations, the trained CNN model (`whr_model.h5`) is not included in this repository.
+
+👉 Download the model from Google Drive:
+https://drive.google.com/file/d/1ZSrCXwG0wD8q6dfev1VqLITt520JRle2/view?usp=drive_link
+
+📌 After downloading, place the file in the project root directory:
